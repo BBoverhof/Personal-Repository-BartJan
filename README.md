@@ -1,2 +1,4 @@
-# Personal-website
-Personal website Bart-Jan Boverhof
+# Personal-Documents
+Personal documents of Bart-Jan Boverhof
+Currently, contains:
+- CV
